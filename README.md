@@ -1,2 +1,2 @@
 # sayisal_oynayalim
-Sayısal oynamak için rasgele sayılar üretir
+Sayısal oynamak için rastgele sayılar üretir
